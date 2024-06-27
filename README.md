@@ -69,6 +69,12 @@ Tomcat 8181 포트 연결
 
 <hr>
 
+## 📓 Notion 📓
+
+#### [😆 Chordingg 👉 Notion](https://www.notion.so/3-98e15f21cfa544a58914e0b743ef39c3)
+
+<hr>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks 🛠️</h2> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">

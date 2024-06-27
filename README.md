@@ -1,43 +1,44 @@
 
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:a5bbe9,100:a4dbc6&height=180&text=Project%20Doong-doong%20✈️%20&animation=fadeIn&fontColor=000000&fontSize=40" />
-    <div align= "center"> 
-     </div>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=코딩%20자율학습%20스프링부트3&height=150&fontSize=60&desc=자바%20백엔드%20개발%20입문&descAlignY=75&descAlign=60" alt="transparent">
+</p>
 
-***
 
-```
-프로젝트 기간 : 2024년 5월 2일 ~ 2024년 5월 24일
-```
-***
-
+<hr>
 
 ## 📌 소개 📌
-```
-주제 설명 : 사진 인화 웹 페이지에서 드론 배송이 가능한 웹 사이트 입니다.
-```
 
 ```
+백엔드 개발의 핵심 개념 3가지를 배우고 이를 활용한 게시판 만들기 프로젝트 수행
+```
+
 <hr>
 
-## 👀 목적 👀
-```
-1. 사진 인화 및 드론 배송 시스템을 개발하여 안정적이고 
-효율적인 서비스를 제공합니다.
+## 👀 내용 👀
 
-2. 고객들에게 빠르고 안전한 배송을 보장하여 신뢰를 구축합니다.
-
-3. 드론 기술을 활용하여 시장에서 차별화된 서비스를 제공하여
-수익성을 극대화 합니다.
 ```
-<hr>
+1. 백엔드 개발 핵심 개념 3가지
 
-## 👨‍💻 백엔드 개발 핵심 개념 3가지 학습하기 👩‍💻
-```
-1. MVC 패턴
-2. JPA
-3. REST API
+- MVC 패턴
+- JPA
+- REST API
+
+
+2. 게시판 만들기 프로젝트
+
+- 게시판 만들고 웹 브라우저에 띄우기
+- 서버와 통신해 게시글 CRUD 하기
+- 서버와 통신해 댓글 CRUD 하기
+- 테스트 코드 작성하기
+
+
+3. 그 밖에 관련 기술
+
+- 머스테츠(mustache) 문법
+- 부트스트랩 활용(v5.0.2)
+- 자바스크립트 API 호출
+- SQL 기본 구문
+- DB 데이터 설계
 ```
 
 <hr>
@@ -49,8 +50,7 @@
 언어 : Java(jdk 11), JavaScript(3.22)
 서버 : Apache Tomcat 9.0 (3.9.18)
 프레임워크 : Spring(5.3.23)
-Tool : SpringSource Tool Suite (STS) 3.9.18.RELEASE
-라이브러리 : JQuery, Lombok
+라이브러리 : Lombok
 DBMS : H2 Database
 ETC : Git
 ```
@@ -59,7 +59,7 @@ ETC : Git
 
 ## 🔔 Prerequisite 🔔
 ```
-OracleDB 1521 포트로 연결 
+H2 Database 연결 
 Tomcat 8181 포트 연결
 ```
 
@@ -92,68 +92,69 @@ Tomcat 8181 포트 연결
 
 <hr>
 
-## 📹 시연 영상 📹
-
-<details><summary>회원가입 & 로그인</summary>
-
-<h3>회원가입</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/5bdf0d8e-7865-4bcf-8394-7a294d0c2067
-
-<h3>비회원</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/69b42ca5-f659-46da-9789-95fc54e2bea7
-
-<h3>일반 로그인</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/222e666b-53c8-4842-a4eb-7f1bc9e17d70
-
-<h3>카카오 로그인</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/e77aa735-bced-4108-bd91-42f746aa807f
-
-<h3>휴대전화 인증을 통해 아이디 찾기</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/518548e2-84d9-412a-8af4-f3f3ca0ccf70
-
-<h3>이메일 인증을 통해 비밀번호 찾기</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/a1f18f32-77a8-4956-babf-8b0d6327ff3c
-
-</details>
-
-
-<details><summary>회원 정보 수정 & 탈퇴</summary>
-
-<h3>로그인 된 회원 데이터 가져와서 회원 정보 수정</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/470ca709-8795-4a37-8e9c-da35ef5f990f
-
-<h3>회원 탈퇴</h3>
-
-https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/142aef14-9850-4f6b-8d4e-4f1e32a50f9a
-
-</details>
-
-
-<hr>
-
 ## 📂 PPT 📂
 
 <details><summary>PPT</summary>
+    
      <div>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/95b336ac-4573-4f42-b536-e4447478b819"  width="45%"/>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/1077b234-a4df-4355-9285-69472e38c625"  width="45%"/>
+         <h4>메인 페이지</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/13401918-14f8-473f-b272-90fc25343293">
      </div>
+     
      <div>
-        <img src="https://github.com/Chordingg/Spring-Boot/assets/157094467/740c672c-962e-45ac-a9f1-1f0243f806c0"  width="45%"/>
-        <img src="https://github.com/Chordingg/2024_Spring_Project_Doong-doong/assets/157094467/945662e0-acd8-4c8b-aea4-86495cf3ce50"  width="45%"/>
+         <h4>게시글 작성</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/d7df19b2-c862-4f6c-8416-928a73943993">
      </div>
-  
-
-
-
-
+     
+     <div>
+         <h4>{id}값으로 상세보기</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/ed4112f0-c39a-4918-a268-88a2e3475e41">
+     </div>
+     
+     <div>
+         <h4>추가된 게시글 메인 페이지에서 보기</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/49e3619e-ed20-47b5-a350-aa5aa70169d4">
+     </div>
+     
+     <div>
+         <h4>게시글 수정</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/643c86cf-2db0-473a-9bdd-98cfcf87c2b7">
+     </div>
+     
+     <div>
+         <h4>게시글 삭제</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/b5aaa2c5-59a6-499f-8166-a23dab6f56e5">
+     </div>
+     
+     <div>
+         <h4>댓글 확인</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/371d8100-9aa9-474d-a6c2-a7a5d6beacfe">
+     </div>
+     
+     <div>
+         <h4>댓글 등록</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/fa728aa1-9049-4d25-b2e8-ada3a41175db">
+     </div>
+     
+     <div>
+         <h4>댓글 삭제</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/3cb25f3c-807f-4ea5-a47f-c208b717de8d">
+     </div>
+     
+     <div>
+         <h4>댓글 수정</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/7bda164f-c058-4183-ade9-657d984006c3">
+     </div>
+     
+     <div>
+         <h4>댓글 수정 확인</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/a666cc7b-8a6e-4059-a2e0-7e258a5b45a4">
+     </div>
+     
+     <div>
+         <h4>REST API 형식</h4>
+        <img src="https://github.com/Chordingg/Spring_Boot_study1/assets/157094467/96be6652-fa22-401f-acbe-c48bbc61db10">
+     </div>
 
 </details>
 
